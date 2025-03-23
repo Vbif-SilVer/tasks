@@ -5,33 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <style>
-        * {
-            font-family: Arial, Helvetica, sans-serif;
-        }
-        .product-list {
-            display: flex;
-            flex-wrap: wrap;
-        }
-        .product {
-            border: 1px solid #ccc;
-            padding: 10px;
-            margin: 10px;
-            width: 320px;
-        }
-        .product > h2 {
-            height: 70px;
-        }
-        img {
-            width: 300px;
-            height: 200px;
-        }
-        .no-products {
-            font-size: 30pt;
-            color: red;
-            font-weight: bold;
-        }
-    </style>
 </head>
 <body>
     <?php
